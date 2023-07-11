@@ -7,5 +7,12 @@
   "work":"09445499544",
   "mail":"tereminalmobile@gmail.com",
   "fb":"https://www.facebook.com/profile.php?id=",
-  "messenger":""
+  "messenger":"",
+  "slide":[
+    {
+      "img":"https://img.freepik.com/premium-psd/horizontal-website-banne_451189-110.jpg",
+      "url":"https://www.google.com",
+      "title":"Premium Price List"
+    }
+  ]
 }
