@@ -1,18 +1,1 @@
-{
-  "logo":"https://raw.githubusercontent.com/DevMyanmar/terminal/main/logo.png",
-  "title":"Terminal Mobile Shop",
-  "bio":"This is Bio",
-  "home":"Kyauk Pa Daung",
-  "mobile":"09794441330",
-  "work":"09445499544",
-  "mail":"tereminalmobile@gmail.com",
-  "fb":"https://www.facebook.com/profile.php?id=",
-  "messenger":"https://m.me/test",
-  "slide":[
-    {
-      "img":"https://img.freepik.com/premium-psd/horizontal-website-banne_451189-110.jpg",
-      "url":"https://www.google.com",
-      "title":"Premium Price List"
-    }
-  ]
-}
+{"logo":"https://raw.githubusercontent.com/DevMyanmar/terminal/main/logo.png","title":"Terminal Mobile Shop","bio":"Welcome to my App ","home":"Kyauk Pa Daung","mobile":"09794441330","work":"09445499544","mail":"tereminalmobile@gmail.com","fb":"https://www.facebook.com/profile.php?id=","messenger":"https://m.me/test","slide":[]}
